@@ -1,9 +1,7 @@
-![WhatsApp Image 2025-05-20 at 03 50 35_01bae356](https://github.com/user-attachments/assets/4e86a2a4-4d06-4cf5-82ea-77cdeb6a503a)# Create-a-Highly-Available-3-Tier-Architecture-using-Terraform-
-
-![Image](https://github.com/user-attachments/assets/b7a386cd-5eb5-4dbb-9642-11f5a9429581)
 
 # Highly Available 3-Tier Architecture on AWS using Terraform
 
+![Image](https://github.com/user-attachments/assets/b7a386cd-5eb5-4dbb-9642-11f5a9429581)
 This Terraform project provisions a highly available 3-tier architecture on AWS, consisting of:
 
 - **Presentation Tier:** User interface and communication layer (web servers behind an Application Load Balancer)
