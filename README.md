@@ -1,6 +1,6 @@
-# Create-a-Highly-Available-3-Tier-Architecture-using-Terraform-
+![WhatsApp Image 2025-05-20 at 03 50 35_01bae356](https://github.com/user-attachments/assets/4e86a2a4-4d06-4cf5-82ea-77cdeb6a503a)# Create-a-Highly-Available-3-Tier-Architecture-using-Terraform-
 
-![Image](https://github.com/user-attachments/assets/7b1822d8-3bdb-47fb-b4ea-65c680c2570a)
+![Image](https://github.com/user-attachments/assets/b7a386cd-5eb5-4dbb-9642-11f5a9429581)
 
 # Highly Available 3-Tier Architecture on AWS using Terraform
 
@@ -11,6 +11,7 @@ This Terraform project provisions a highly available 3-tier architecture on AWS,
 - **Database Tier:** Data storage and management (MySQL RDS instance in private subnets)
 
 ---
+![Image](https://github.com/user-attachments/assets/7b1822d8-3bdb-47fb-b4ea-65c680c2570a)
 
 ## Overview
 
@@ -27,6 +28,7 @@ The infrastructure includes:
 - RDS MySQL database instance for the database tier within private subnets.
 
 ---
+![Image](https://github.com/user-attachments/assets/d8056d97-3cbe-4c25-bcfa-f0aacd98754d)
 
 ## Prerequisites
 
@@ -37,7 +39,7 @@ The infrastructure includes:
 - SSH key pair created and referenced in Terraform (`key_name`).
 
 ---
-
+![Image](https://github.com/user-attachments/assets/cb2de401-dcf1-44cb-a9a0-16c127e9e945)
 ## Terraform Files Structure
 
 | Filename                | Description                                 |
@@ -58,5 +60,19 @@ The infrastructure includes:
 | `alb.tf`                | Application Load Balancer setup                |
 | `rds.tf`                | RDS Database instance and subnet group        |
 
+
+![Image](https://github.com/user-attachments/assets/cb2de401-dcf1-44cb-a9a0-16c127e9e945)
+
+
+
+
 ---
+
+📞 Contact Information
+
+| **Method** | **Details**                  |
+|------------|------------------------------|
+| Email      | ahmadtahir4235@gmail.com     |
+| Phone      | +92 3000511136               |
+| LinkedIn   | https://linkedin.com/in/m-ahmadtahir |
 
