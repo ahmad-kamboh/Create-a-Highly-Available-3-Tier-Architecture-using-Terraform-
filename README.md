@@ -59,7 +59,7 @@ The infrastructure includes:
 | `rds.tf`                | RDS Database instance and subnet group        |
 
 
-![Image](https://github.com/user-attachments/assets/cb2de401-dcf1-44cb-a9a0-16c127e9e945)
+![Image](https://github.com/user-attachments/assets/5aa439c6-06a1-4215-95e9-4e6de5541ad3)
 
 
 
