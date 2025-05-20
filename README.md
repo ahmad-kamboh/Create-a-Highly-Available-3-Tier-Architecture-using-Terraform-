@@ -1,4 +1,7 @@
 # Create-a-Highly-Available-3-Tier-Architecture-using-Terraform-
+
+![Image](https://github.com/user-attachments/assets/7b1822d8-3bdb-47fb-b4ea-65c680c2570a)
+
 # Highly Available 3-Tier Architecture on AWS using Terraform
 
 This Terraform project provisions a highly available 3-tier architecture on AWS, consisting of:
